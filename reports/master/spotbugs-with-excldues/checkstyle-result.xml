@@ -405,6 +405,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/eclipsePlugin/src/de/tobject/findbugs/view/properties/BugPatternFilter.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/eclipsePlugin/src/de/tobject/findbugs/view/properties/PropertyPageAdapterFactory.java">
+<error line="238" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/eclipsePlugin/src/de/tobject/findbugs/view/FindBugsConsole.java">
 </file>
@@ -439,6 +440,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/eclipsePlugin/src/de/tobject/findbugs/view/explorer/BugContentProvider.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/eclipsePlugin/src/de/tobject/findbugs/view/explorer/RefreshJob.java">
+<error line="164" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/eclipsePlugin/src/de/tobject/findbugs/view/explorer/BugActionProvider.java">
 </file>
@@ -635,6 +637,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/spotbugs/src/gui/edu/umd/cs/findbugs/gui2/OSXAdapter.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/spotbugs/src/gui/edu/umd/cs/findbugs/gui2/FilterActivity.java">
+<error line="47" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/spotbugs/src/gui/edu/umd/cs/findbugs/gui2/SwingThread.java">
 </file>
@@ -957,6 +960,8 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/spotbugs/src/main/java/edu/umd/cs/findbugs/BugCategory.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/spotbugs/src/main/java/edu/umd/cs/findbugs/OpcodeStack.java">
+<error line="3264" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="3542" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/spotbugs/src/main/java/edu/umd/cs/findbugs/BugRankCategory.java">
 </file>
@@ -1083,6 +1088,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/spotbugs/src/main/java/edu/umd/cs/findbugs/detect/CrossSiteScripting.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/spotbugs/src/main/java/edu/umd/cs/findbugs/detect/FindNoSideEffectMethods.java">
+<error line="634" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/spotbugs/src/main/java/edu/umd/cs/findbugs/detect/BuildUnconditionalParamDerefDatabase.java">
 </file>
@@ -1115,10 +1121,16 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/spotbugs/src/main/java/edu/umd/cs/findbugs/detect/IDivResultCastToDouble.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/spotbugs/src/main/java/edu/umd/cs/findbugs/detect/DumbMethods.java">
+<error line="945" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="984" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="999" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="1037" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="1460" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/spotbugs/src/main/java/edu/umd/cs/findbugs/detect/InstantiateStaticClass.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/spotbugs/src/main/java/edu/umd/cs/findbugs/detect/FindInconsistentSync2.java">
+<error line="830" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/spotbugs/src/main/java/edu/umd/cs/findbugs/detect/TrainNonNullAnnotations.java">
 </file>
@@ -1237,6 +1249,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/spotbugs/src/main/java/edu/umd/cs/findbugs/detect/FindJSR166LockMonitorenter.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/spotbugs/src/main/java/edu/umd/cs/findbugs/detect/VolatileUsage.java">
+<error line="69" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/spotbugs/src/main/java/edu/umd/cs/findbugs/detect/FindUselessControlFlow.java">
 </file>
@@ -1297,10 +1310,13 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/spotbugs/src/main/java/edu/umd/cs/findbugs/detect/FindBadCast2.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/spotbugs/src/main/java/edu/umd/cs/findbugs/detect/DroppedException.java">
+<error line="495" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/spotbugs/src/main/java/edu/umd/cs/findbugs/detect/MutableStaticFields.java">
+<error line="169" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/spotbugs/src/main/java/edu/umd/cs/findbugs/detect/FindDoubleCheck.java">
+<error line="187" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/spotbugs/src/main/java/edu/umd/cs/findbugs/detect/WaitInLoop.java">
 </file>
@@ -1387,6 +1403,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/spotbugs/src/main/java/edu/umd/cs/findbugs/detect/InfiniteLoop.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/spotbugs/src/main/java/edu/umd/cs/findbugs/detect/FindNonShortCircuit.java">
+<error line="229" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/spotbugs/src/main/java/edu/umd/cs/findbugs/detect/InefficientToArray.java">
 </file>
@@ -1685,6 +1702,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/spotbugs/src/main/java/edu/umd/cs/findbugs/VersionInsensitiveBugComparator.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/spotbugs/src/main/java/edu/umd/cs/findbugs/StackMapAnalyzer.java">
+<error line="215" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/spotbugs/src/main/java/edu/umd/cs/findbugs/SwitchHandler.java">
 </file>
@@ -1821,6 +1839,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/spotbugs/src/main/java/edu/umd/cs/findbugs/ba/type/NullType.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/spotbugs/src/main/java/edu/umd/cs/findbugs/ba/type/StandardTypeMerger.java">
+<error line="197" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/spotbugs/src/main/java/edu/umd/cs/findbugs/ba/type/TypeMerger.java">
 </file>
@@ -1997,8 +2016,10 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/spotbugs/src/main/java/edu/umd/cs/findbugs/ba/npe/ParameterNullnessPropertyDatabase.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/spotbugs/src/main/java/edu/umd/cs/findbugs/ba/npe/IsNullValueAnalysis.java">
+<error line="138" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/spotbugs/src/main/java/edu/umd/cs/findbugs/ba/npe/TypeQualifierNullnessAnnotationDatabase.java">
+<error line="434" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/spotbugs/src/main/java/edu/umd/cs/findbugs/ba/npe/DerefFinder.java">
 </file>
@@ -2043,6 +2064,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/spotbugs/src/main/java/edu/umd/cs/findbugs/ba/AnalysisContext.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/spotbugs/src/main/java/edu/umd/cs/findbugs/ba/Edge.java">
+<error line="241" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/spotbugs/src/main/java/edu/umd/cs/findbugs/ba/ResourceValue.java">
 </file>
@@ -2107,6 +2129,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/spotbugs/src/main/java/edu/umd/cs/findbugs/ba/jsr305/FindBugsDefaultAnnotations.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/spotbugs/src/main/java/edu/umd/cs/findbugs/ba/jsr305/TypeQualifierValueSet.java">
+<error line="134" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/spotbugs/src/main/java/edu/umd/cs/findbugs/ba/jsr305/ParameterAnnotationAccumulator.java">
 </file>
@@ -2145,6 +2168,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/spotbugs/src/main/java/edu/umd/cs/findbugs/ba/generic/GenericUtilities.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/spotbugs/src/main/java/edu/umd/cs/findbugs/ba/generic/GenericSignatureParser.java">
+<error line="84" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/spotbugs/src/main/java/edu/umd/cs/findbugs/ba/ch/InterproceduralCallGraphEdge.java">
 </file>
@@ -2407,6 +2431,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/spotbugs/src/main/java/edu/umd/cs/findbugs/ClassAnnotation.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/spotbugs/src/main/java/edu/umd/cs/findbugs/Tokenizer.java">
+<error line="186" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/spotbugs/src/main/java/edu/umd/cs/findbugs/BugCode.java">
 </file>
@@ -2451,6 +2476,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/spotbugs/src/main/java/edu/umd/cs/findbugs/workflow/UnionResults.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/spotbugs/src/main/java/edu/umd/cs/findbugs/workflow/Update.java">
+<error line="576" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/spotbugs/src/main/java/edu/umd/cs/findbugs/workflow/Filter.java">
 </file>
@@ -2461,6 +2487,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/spotbugs/src/main/java/edu/umd/cs/findbugs/workflow/CountClassVersions.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/spotbugs/src/main/java/edu/umd/cs/findbugs/workflow/CopyBuggySource.java">
+<error line="110" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/spotbugs/src/main/java/edu/umd/cs/findbugs/workflow/PrintAppVersion.java">
 </file>
@@ -2915,6 +2942,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/spotbugsTestCases/src/java/bugIdeas/Ideas_2009_10_13a.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/spotbugsTestCases/src/java/bugIdeas/Ideas_2009_03_14.java">
+<error line="7" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/spotbugsTestCases/src/java/bugIdeas/Ideas_2011_04_24.java">
 </file>
@@ -3251,6 +3279,17 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/spotbugsTestCases/src/java/npe/IgnoreBranchesWhereValueIsKnownNonNull.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/spotbugsTestCases/src/java/npe/EclipseNullReferenceTestCases.java">
+<error line="2214" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="4142" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="4184" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="4201" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="4242" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="4796" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="4902" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="5224" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="5248" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="5272" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="5298" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/spotbugsTestCases/src/java/npe/CorrectlyLocalizeWarning.java">
 </file>
@@ -3489,6 +3528,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/spotbugsTestCases/src/java/BadEquals.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/spotbugsTestCases/src/java/TestBooleanReturn.java">
+<error line="39" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/spotbugsTestCases/src/java/jsr305/Foo.java">
 </file>
@@ -3889,6 +3929,10 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/spotbugsTestCases/src/java/TestFloatEquality.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/spotbugsTestCases/src/java/SwitchDup.java">
+<error line="92" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="109" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="126" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="159" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/spotbugsTestCases/src/java/AnnotationTest.java">
 </file>
@@ -3993,12 +4037,16 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/spotbugsTestCases/src/java/sfBugsNew/Bug1315.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/spotbugsTestCases/src/java/sfBugsNew/Bug1172.java">
+<error line="11" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="26" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/spotbugsTestCases/src/java/sfBugsNew/Bug1272.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/spotbugsTestCases/src/java/sfBugsNew/Bug1282.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/spotbugsTestCases/src/java/sfBugsNew/Bug1392.java">
+<error line="18" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="34" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/spotbugsTestCases/src/java/sfBugsNew/Bug1192.java">
 </file>
@@ -4197,6 +4245,9 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/spotbugsTestCases/src/java/PreferZeroLengthArrays.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/spotbugsTestCases/src/java/SwitchFallthrough.java">
+<error line="98" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="100" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="111" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/spotbugsTestCases/src/java/UselessSCMethods.java">
 </file>
@@ -4291,6 +4342,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/spotbugsTestCases/src/java/googleAnnotations/TestNullable.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/spotbugsTestCases/src/java/DuplicateBranches.java">
+<error line="67" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/spotbugsTestCases/src/java/IgnoredTrim.java">
 </file>
@@ -4333,6 +4385,8 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/spotbugsTestCases/src/java/SuperFinalize.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/spotbugsTestCases/src/java/SwitchFallthroughDeadStoreFalsePositive.java">
+<error line="5" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="18" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/spotbugsTestCases/src/java/MyTestCase.java">
 </file>
@@ -4797,6 +4851,10 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/spotbugsTestCases/src/java/sfBugs/RFE2958584.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/spotbugsTestCases/src/java/sfBugs/Bug3442048.java">
+<error line="13" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="29" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="57" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="86" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/spotbugsTestCases/src/java/sfBugs/Bug3503898.java">
 </file>
@@ -4837,6 +4895,10 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/spotbugsTestCases/src/java/sfBugs/Bug1912994.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/spotbugsTestCases/src/java/sfBugs/Bug3135098.java">
+<error line="11" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="20" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="29" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="49" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/spotbugsTestCases/src/java/sfBugs/Bug2931203.java">
 </file>
@@ -4863,6 +4925,9 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/spotbugsTestCases/src/java/sfBugs/Bug1683045.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/spotbugsTestCases/src/java/sfBugs/Bug2539590.java">
+<error line="24" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="63" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="108" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/spotbugsTestCases/src/java/sfBugs/Bug2311143.java">
 </file>
@@ -5263,6 +5328,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/spotbugsTestCases/src/java/sfBugs/Bug2943090.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/spotbugsTestCases/src/java/sfBugs/Bug3498829.java">
+<error line="13" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spotbugs-with-excldues/spotbugsTestCases/src/java/sfBugs/Bug2612987.java">
 </file>

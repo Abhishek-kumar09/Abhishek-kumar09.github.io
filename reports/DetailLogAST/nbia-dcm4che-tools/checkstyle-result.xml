@@ -77,6 +77,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/nbia-dcm4che-tools/dcm4jboss-ejb/src/java/org/dcm4chex/archive/ejb/conf/AttributeFilterLoader.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/nbia-dcm4che-tools/dcm4jboss-ejb/src/java/org/dcm4chex/archive/ejb/jdbc/BaseCmd.java">
+<error line="129" column="9" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/nbia-dcm4che-tools/dcm4jboss-ejb/src/java/org/dcm4chex/archive/ejb/jdbc/MPPSQueryCmd.java">
 </file>
@@ -109,6 +110,8 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/nbia-dcm4che-tools/dcm4jboss-ejb/src/java/org/dcm4chex/archive/ejb/jdbc/GPPPSQueryCmd.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/nbia-dcm4che-tools/dcm4jboss-ejb/src/java/org/dcm4chex/archive/ejb/jdbc/Match.java">
+<error line="287" column="17" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="453" column="17" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/nbia-dcm4che-tools/dcm4jboss-ejb/src/java/org/dcm4chex/archive/ejb/jdbc/JDBCFirebirdSequenceCreateCommand.java">
 </file>
@@ -135,12 +138,23 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/nbia-dcm4che-tools/dcm4jboss-ejb/src/java/org/dcm4chex/archive/ejb/jdbc/FileInfo.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/nbia-dcm4che-tools/dcm4jboss-ejb/src/java/org/dcm4chex/archive/ejb/jdbc/QueryCmd.java">
+<error line="253" column="9" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="295" column="9" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="381" column="9" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="428" column="9" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="530" column="9" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="572" column="9" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="599" column="9" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="751" column="9" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="789" column="9" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="811" column="9" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/nbia-dcm4che-tools/dcm4jboss-ejb/src/java/org/dcm4chex/archive/ejb/jdbc/BaseUpdateCmd.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/nbia-dcm4che-tools/dcm4jboss-ejb/src/java/org/dcm4chex/archive/ejb/jdbc/QueryFilesOfSeriesCmd2.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/nbia-dcm4che-tools/dcm4jboss-ejb/src/java/org/dcm4chex/archive/ejb/jdbc/SqlBuilder.java">
+<error line="510" column="9" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/nbia-dcm4che-tools/dcm4jboss-ejb/src/java/org/dcm4chex/archive/ejb/jdbc/RetrieveCmd.java">
 </file>
@@ -249,6 +263,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/nbia-dcm4che-tools/dcm4jboss-ejb/src/java/org/dcm4chex/archive/ejb/interfaces/AEDTO.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/nbia-dcm4che-tools/dcm4jboss-ejb/src/java/org/dcm4chex/archive/ejb/session/UPSManagementBean.java">
+<error line="248" column="9" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/nbia-dcm4che-tools/dcm4jboss-ejb/src/java/org/dcm4chex/archive/ejb/session/AvailabilityUpdateBean.java">
 </file>
@@ -267,6 +282,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/nbia-dcm4che-tools/dcm4jboss-ejb/src/java/org/dcm4chex/archive/ejb/session/MPPSEmulatorBean.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/nbia-dcm4che-tools/dcm4jboss-ejb/src/java/org/dcm4chex/archive/ejb/session/GPWLManagerBean.java">
+<error line="229" column="13" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/nbia-dcm4che-tools/dcm4jboss-ejb/src/java/org/dcm4chex/archive/ejb/session/FileSystemMgt2Bean.java">
 </file>
@@ -275,6 +291,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/nbia-dcm4che-tools/dcm4jboss-ejb/src/java/org/dcm4chex/archive/ejb/session/AEManagerBean.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/nbia-dcm4che-tools/dcm4jboss-ejb/src/java/org/dcm4chex/archive/ejb/session/PIXQueryBean.java">
+<error line="156" column="13" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/nbia-dcm4che-tools/dcm4jboss-ejb/src/java/org/dcm4chex/archive/ejb/session/StudyPermissionManagerBean.java">
 </file>
@@ -375,8 +392,12 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/nbia-dcm4che-tools/dcm4jboss-ejb/src/java/org/dcm4chex/archive/exceptions/NoSuchSeriesException.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/nbia-dcm4che-tools/dcm4jboss-ejb/src/java/org/dcm4chex/archive/tools/EditMwl.java">
+<error line="95" column="13" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="125" column="13" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/nbia-dcm4che-tools/dcm4jboss-ejb/src/java/org/dcm4chex/archive/tools/EditGpwl.java">
+<error line="91" column="13" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="118" column="13" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/nbia-dcm4che-tools/dcm4jboss-ejb/src/java/org/dcm4chex/archive/tools/Pwd2Hash.java">
 </file>
@@ -863,6 +884,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/nbia-dcm4che-tools/dcm4jboss-sar/src/java/org/dcm4chex/archive/config/DeleterThreshold.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/nbia-dcm4che-tools/dcm4jboss-sar/src/java/org/dcm4chex/archive/config/Condition.java">
+<error line="87" column="13" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/nbia-dcm4che-tools/dcm4jboss-sar/src/java/org/dcm4chex/archive/config/DicomPriority.java">
 </file>
@@ -903,6 +925,8 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/nbia-dcm4che-tools/dcm4jboss-sar/src/java/org/dcm4chex/archive/util/RequestedFrameNumbersOutOfRangeException.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/nbia-dcm4che-tools/dcm4jboss-sar/src/java/org/dcm4chex/archive/util/FileDataSource.java">
+<error line="249" column="17" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="576" column="9" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/nbia-dcm4che-tools/dcm4jboss-sar/src/java/org/dcm4chex/archive/util/DatasetUpdater.java">
 </file>
@@ -1043,16 +1067,19 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/nbia-dcm4che-tools/dcm4jboss-sar/src/java/org/dcm4chex/archive/dcm/mwlscu/MwlReplicaService.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/nbia-dcm4che-tools/dcm4jboss-sar/src/java/org/dcm4chex/archive/dcm/mcmscu/MCMScuService.java">
+<error line="1019" column="9" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/nbia-dcm4che-tools/dcm4jboss-sar/src/java/org/dcm4chex/archive/dcm/ups/UPSFindScp.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/nbia-dcm4che-tools/dcm4jboss-sar/src/java/org/dcm4chex/archive/dcm/ups/UPSEventReportOrder.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/nbia-dcm4che-tools/dcm4jboss-sar/src/java/org/dcm4chex/archive/dcm/ups/UPSScp.java">
+<error line="514" column="9" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/nbia-dcm4che-tools/dcm4jboss-sar/src/java/org/dcm4chex/archive/dcm/ups/UPSFeedService.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/nbia-dcm4che-tools/dcm4jboss-sar/src/java/org/dcm4chex/archive/dcm/ups/UPSScpService.java">
+<error line="389" column="13" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/nbia-dcm4che-tools/dcm4jboss-sar/src/java/org/dcm4chex/archive/dcm/gpwlscp/PPSScuService.java">
 </file>
@@ -1089,10 +1116,13 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/nbia-dcm4che-tools/dcm4jboss-sar/src/java/org/dcm4chex/archive/dcm/mppsscp/MPPSScpService.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/nbia-dcm4che-tools/dcm4jboss-sar/src/java/org/dcm4chex/archive/dcm/stymgt/StudyMgtScp.java">
+<error line="106" column="13" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/nbia-dcm4che-tools/dcm4jboss-sar/src/java/org/dcm4chex/archive/dcm/stymgt/StudyMgtOrder.java">
+<error line="113" column="15" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/nbia-dcm4che-tools/dcm4jboss-sar/src/java/org/dcm4chex/archive/dcm/stymgt/StudyMgtScuService.java">
+<error line="211" column="21" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/nbia-dcm4che-tools/dcm4jboss-sar/src/java/org/dcm4chex/archive/dcm/stymgt/StudyMgtScpService.java">
 </file>
@@ -1281,6 +1311,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/nbia-dcm4che-tools/dcm4jboss-web/src/java/org/dcm4chex/archive/web/maverick/PatientMergeCtrl.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/nbia-dcm4che-tools/dcm4jboss-web/src/java/org/dcm4chex/archive/web/maverick/FolderMoveDelegate.java">
+<error line="537" column="9" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/nbia-dcm4che-tools/dcm4jboss-web/src/java/org/dcm4chex/archive/web/maverick/tf/SRManifestModel.java">
 </file>

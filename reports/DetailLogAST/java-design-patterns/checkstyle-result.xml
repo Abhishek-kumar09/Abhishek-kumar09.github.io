@@ -95,6 +95,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/java-design-patterns/interpreter/src/main/java/com/iluwatar/NumberExpression.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/java-design-patterns/interpreter/src/main/java/com/iluwatar/App.java">
+<error line="58" column="17" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/java-design-patterns/composite/src/test/java/com/iluwatar/AppTest.java">
 </file>

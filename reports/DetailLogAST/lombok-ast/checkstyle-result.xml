@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <checkstyle version="8.31-SNAPSHOT">
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/lombok-ast/src/javacTransformer/lombok/ast/javac/JcTreeBuilder.java">
+<error line="584" column="33" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/lombok-ast/src/javacTransformer/lombok/ast/javac/JcTreeConverter.java">
+<error line="813" column="25" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="871" column="25" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/lombok-ast/src/javacTransformer/lombok/ast/javac/JcTreePrinter.java">
 </file>
@@ -19,10 +22,14 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/lombok-ast/src/ecjTransformer/lombok/ast/ecj/GenerateEcjTreeVisitorCode.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/lombok-ast/src/ecjTransformer/lombok/ast/ecj/EcjTreeConverter.java">
+<error line="475" column="25" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="699" column="25" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/lombok-ast/src/ecjTransformer/lombok/ast/ecj/EcjTreePrinter.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/lombok-ast/src/ecjTransformer/lombok/ast/ecj/EcjTreeBuilder.java">
+<error line="1285" column="25" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="1650" column="33" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/lombok-ast/src/ecjTransformer/lombok/ast/ecj/EcjTreeOperations.java">
 </file>
@@ -373,6 +380,9 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/lombok-ast/test/resources/idempotency/B002_SimpleTypes.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/lombok-ast/test/resources/idempotency/D002_Switch.java">
+<error line="4" column="9" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="41" column="9" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="45" column="9" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/lombok-ast/test/resources/idempotency/C007_ThisLiteral.java">
 </file>

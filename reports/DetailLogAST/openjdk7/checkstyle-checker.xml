@@ -20,12 +20,10 @@
     <module name="TreeWalker">
          <!-- Example of checkstyle Check usage -->
          <!-- PLEASE CHANGE IT TO CHECK YOU ARE TESTING !!!! -->
-         <module name="ThrowsCount">
-             <property name="max" value="20000000"/>
-         </module>
+         <module name="MissingSwitchDefault"/>
 
          <!-- Example of sevntu.checkstyle Check usage -->
-         <!-- <module name="NestedSwitchCheck"/> -->
+         <module name="MissingSwitchDefault"/>
 
          <!-- usuppress javadoc parsing errors, as we test Check not a parser -->
          <module name="SuppressionXpathSingleFilter">

@@ -337,6 +337,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/apache-struts/plugins/json/src/main/java/org/apache/struts2/json/JSONActionRedirectResult.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/apache-struts/plugins/json/src/main/java/org/apache/struts2/json/JSONReader.java">
+<error line="263" column="13" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/apache-struts/plugins/json/src/main/java/org/apache/struts2/json/rpc/RPCErrorCode.java">
 </file>
@@ -521,6 +522,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/apache-struts/plugins/embeddedjsp/src/main/java/org/apache/struts2/el/parser/JJTELParserState.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/apache-struts/plugins/embeddedjsp/src/main/java/org/apache/struts2/el/parser/ELParserTokenManager.java">
+<error line="1259" column="13" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/apache-struts/plugins/embeddedjsp/src/main/java/org/apache/struts2/el/parser/AstNull.java">
 </file>
@@ -561,6 +563,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/apache-struts/plugins/embeddedjsp/src/main/java/org/apache/struts2/el/parser/AstCompositeExpression.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/apache-struts/plugins/embeddedjsp/src/main/java/org/apache/struts2/el/parser/ELParser.java">
+<error line="2442" column="25" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/apache-struts/plugins/embeddedjsp/src/main/java/org/apache/struts2/el/parser/AstDynamicExpression.java">
 </file>
@@ -583,6 +586,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/apache-struts/plugins/embeddedjsp/src/main/java/org/apache/struts2/el/lang/ExpressionBuilder.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/apache-struts/plugins/embeddedjsp/src/main/java/org/apache/struts2/el/lang/ELSupport.java">
+<error line="433" column="17" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/apache-struts/plugins/embeddedjsp/src/main/java/org/apache/struts2/el/ValueExpressionLiteral.java">
 </file>
@@ -657,6 +661,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/apache-struts/plugins/embeddedjsp/src/main/java/org/apache/struts2/jasper/runtime/InstanceHelper.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/apache-struts/plugins/embeddedjsp/src/main/java/org/apache/struts2/jasper/runtime/JspContextWrapper.java">
+<error line="357" column="17" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/apache-struts/plugins/embeddedjsp/src/main/java/org/apache/struts2/jasper/runtime/JspFragmentHelper.java">
 </file>
@@ -721,6 +726,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/apache-struts/plugins/embeddedjsp/src/main/java/org/apache/struts2/jasper/JspC.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/apache-struts/plugins/embeddedjsp/src/main/java/org/apache/struts2/jasper/JspCompilationContext.java">
+<error line="686" column="20" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/apache-struts/plugins/embeddedjsp/src/main/java/org/apache/struts2/jasper/security/SecurityClassLoad.java">
 </file>
@@ -751,6 +757,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/apache-struts/plugins/embeddedjsp/src/main/java/org/apache/struts2/jasper/compiler/SmapGenerator.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/apache-struts/plugins/embeddedjsp/src/main/java/org/apache/struts2/jasper/compiler/JspUtil.java">
+<error line="1138" column="17" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/apache-struts/plugins/embeddedjsp/src/main/java/org/apache/struts2/jasper/compiler/PageDataImpl.java">
 </file>
@@ -761,6 +768,8 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/apache-struts/plugins/embeddedjsp/src/main/java/org/apache/struts2/jasper/compiler/JasperTagInfo.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/apache-struts/plugins/embeddedjsp/src/main/java/org/apache/struts2/jasper/compiler/Node.java">
+<error line="1666" column="13" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="1686" column="13" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/apache-struts/plugins/embeddedjsp/src/main/java/org/apache/struts2/jasper/compiler/ParserController.java">
 </file>
@@ -787,6 +796,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/apache-struts/plugins/embeddedjsp/src/main/java/org/apache/struts2/jasper/compiler/TldLocationsCache.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/apache-struts/plugins/embeddedjsp/src/main/java/org/apache/struts2/jasper/compiler/Generator.java">
+<error line="3693" column="13" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/apache-struts/plugins/embeddedjsp/src/main/java/org/apache/struts2/jasper/compiler/TagFileProcessor.java">
 </file>
@@ -1239,6 +1249,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/apache-struts/plugins/osgi/src/main/java/org/apache/struts2/osgi/PackageLoader.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/apache-struts/plugins/osgi/src/main/java/org/apache/struts2/osgi/OsgiConfigurationProvider.java">
+<error line="236" column="13" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/apache-struts/plugins/osgi/src/main/java/org/apache/struts2/osgi/DelegatingObjectFactory.java">
 </file>
@@ -2735,10 +2746,14 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/apache-struts/core/src/main/java/org/apache/struts2/util/tomcat/buf/B2CConverter.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/apache-struts/core/src/main/java/org/apache/struts2/util/tomcat/buf/UDecoder.java">
+<error line="189" column="9" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/apache-struts/core/src/main/java/org/apache/struts2/util/tomcat/buf/StringCache.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/apache-struts/core/src/main/java/org/apache/struts2/util/tomcat/buf/MessageBytes.java">
+<error line="162" column="9" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="326" column="9" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="448" column="9" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/apache-struts/core/src/main/java/org/apache/struts2/util/tomcat/buf/Ascii.java">
 </file>
@@ -3655,6 +3670,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/apache-struts/core/src/main/java/com/opensymphony/xwork2/util/StrutsLocalizedTextProvider.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/apache-struts/core/src/main/java/com/opensymphony/xwork2/util/PropertiesReader.java">
+<error line="261" column="13" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/apache-struts/core/src/main/java/com/opensymphony/xwork2/util/WildcardHelper.java">
 </file>
@@ -3793,6 +3809,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/apache-struts/core/src/main/java/com/opensymphony/xwork2/conversion/impl/CollectionConverter.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/apache-struts/core/src/main/java/com/opensymphony/xwork2/conversion/impl/XWorkConverter.java">
+<error line="514" column="25" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/apache-struts/core/src/main/java/com/opensymphony/xwork2/conversion/impl/ArrayConverter.java">
 </file>

@@ -29,6 +29,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/jcache/embedded/src/main/java/org/infinispan/jcache/embedded/JCachingProvider.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/jcache/embedded/src/main/java/org/infinispan/jcache/embedded/JCache.java">
+<error line="302" column="13" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/jcache/embedded/src/main/java/org/infinispan/jcache/embedded/JCacheManager.java">
 </file>
@@ -109,6 +110,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/jcache/remote/src/main/java/org/infinispan/jcache/remote/JCachingProvider.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/jcache/remote/src/main/java/org/infinispan/jcache/remote/JCache.java">
+<error line="312" column="7" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/jcache/remote/src/main/java/org/infinispan/jcache/remote/JCacheManager.java">
 </file>
@@ -175,6 +177,10 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/demos/gui/src/main/java/org/infinispan/demo/package-info.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/demos/gui/src/main/java/org/infinispan/demo/InfinispanDemo.java">
+<error line="306" column="7" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="568" column="10" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="604" column="13" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="620" column="10" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/demos/nearcache-client/src/main/java/org/infinispan/nearcache/jms/RemoteEventListener.java">
 </file>
@@ -515,6 +521,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/persistence/soft-index/src/main/java/org/infinispan/persistence/sifs/configuration/SoftIndexFileStoreConfigurationParser71.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/persistence/soft-index/src/main/java/org/infinispan/persistence/sifs/Index.java">
+<error line="150" column="16" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/persistence/soft-index/src/main/java/org/infinispan/persistence/sifs/SyncProcessingQueue.java">
 </file>
@@ -723,6 +730,9 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/client/hotrod-client/src/test/java/org/infinispan/client/hotrod/event/ClientEventsTest.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/client/hotrod-client/src/test/java/org/infinispan/client/hotrod/event/EventLogListener.java">
+<error line="91" column="7" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="123" column="7" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="161" column="13" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/client/hotrod-client/src/test/java/org/infinispan/client/hotrod/event/ClientListenerWithIndexingAndProtobufTest.java">
 </file>
@@ -881,6 +891,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/client/hotrod-client/src/test/java/org/infinispan/client/hotrod/query/testdomain/protobuf/marshallers/MarshallerRegistration.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/client/hotrod-client/src/test/java/org/infinispan/client/hotrod/query/testdomain/protobuf/marshallers/GenderMarshaller.java">
+<error line="24" column="7" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/client/hotrod-client/src/test/java/org/infinispan/client/hotrod/query/testdomain/protobuf/marshallers/NotIndexedMarshaller.java">
 </file>
@@ -985,6 +996,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/client/hotrod-client/src/main/java/org/infinispan/client/hotrod/impl/MetadataValueImpl.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/client/hotrod-client/src/main/java/org/infinispan/client/hotrod/impl/protocol/Codec10.java">
+<error line="195" column="10" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/client/hotrod-client/src/main/java/org/infinispan/client/hotrod/impl/protocol/HeaderParams.java">
 </file>
@@ -997,6 +1009,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/client/hotrod-client/src/main/java/org/infinispan/client/hotrod/impl/protocol/Codec11.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/client/hotrod-client/src/main/java/org/infinispan/client/hotrod/impl/protocol/Codec20.java">
+<error line="343" column="10" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/client/hotrod-client/src/main/java/org/infinispan/client/hotrod/impl/protocol/Codec13.java">
 </file>
@@ -1045,6 +1058,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/client/hotrod-client/src/main/java/org/infinispan/client/hotrod/impl/operations/GetOperation.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/client/hotrod-client/src/main/java/org/infinispan/client/hotrod/impl/operations/AddClientListenerOperation.java">
+<error line="93" column="10" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/client/hotrod-client/src/main/java/org/infinispan/client/hotrod/impl/operations/SizeOperation.java">
 </file>
@@ -1149,6 +1163,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/client/hotrod-client/src/main/java/org/infinispan/client/hotrod/event/IncorrectClientListenerException.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/client/hotrod-client/src/main/java/org/infinispan/client/hotrod/event/ClientListenerNotifier.java">
+<error line="279" column="10" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/client/hotrod-client/src/main/java/org/infinispan/client/hotrod/SecurityActions.java">
 </file>
@@ -1551,6 +1566,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/core/src/test/java/org/infinispan/persistence/ClassLoaderManagerDisablingTest.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/core/src/test/java/org/infinispan/persistence/ClusteredTxConditionalCommandTest.java">
+<error line="26" column="10" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/core/src/test/java/org/infinispan/persistence/SharedStoreTest.java">
 </file>
@@ -1589,6 +1605,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/core/src/test/java/org/infinispan/persistence/LocalTxConditionalCommandTest.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/core/src/test/java/org/infinispan/persistence/ClusteredTxConditionalCommandPassivationTest.java">
+<error line="26" column="10" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/core/src/test/java/org/infinispan/persistence/LocalModeNoPassivationTest.java">
 </file>
@@ -1741,6 +1758,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/core/src/test/java/org/infinispan/api/WithClassLoaderTest.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/core/src/test/java/org/infinispan/api/ReplicatedNonTxCacheTest.java">
+<error line="128" column="10" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/core/src/test/java/org/infinispan/api/APINonTxTest.java">
 </file>
@@ -1767,6 +1785,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/core/src/test/java/org/infinispan/api/mvcc/PutForExternalReadDistOptimisticTest.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/core/src/test/java/org/infinispan/api/mvcc/LockPerEntryTest.java">
+<error line="55" column="22" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/core/src/test/java/org/infinispan/api/mvcc/read_committed/CacheAPIOptimisticTest.java">
 </file>
@@ -1895,6 +1914,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/core/src/test/java/org/infinispan/api/ConditionalOperationsConcurrentOptimisticStressTest.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/core/src/test/java/org/infinispan/api/ConditionalOperationsConcurrentWriteSkewTest.java">
+<error line="109" column="16" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/core/src/test/java/org/infinispan/api/ConcurrentOperationsStressTest.java">
 </file>
@@ -2017,6 +2037,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/core/src/test/java/org/infinispan/statetransfer/L1NonTxReadAfterLosingOwnershipTest.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/core/src/test/java/org/infinispan/statetransfer/TxDuringStateTransferTest.java">
+<error line="113" column="10" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/core/src/test/java/org/infinispan/statetransfer/WriteSkewDuringStateTransferTest.java">
 </file>
@@ -2135,6 +2156,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/core/src/test/java/org/infinispan/util/ControlledConsistentHashFactory.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/core/src/test/java/org/infinispan/util/BlockingLocalTopologyManager.java">
+<error line="73" column="7" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/core/src/test/java/org/infinispan/util/tx/lookup/GeronimoTransactionManagerLookup.java">
 </file>
@@ -2207,6 +2229,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/core/src/test/java/org/infinispan/container/versioning/NumericVersionGeneratorTest.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/core/src/test/java/org/infinispan/container/versioning/AbstractClusteredWriteSkewTest.java">
+<error line="264" column="7" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/core/src/test/java/org/infinispan/container/versioning/ReplWriteSkewConsistencyTest.java">
 </file>
@@ -2417,6 +2440,8 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/core/src/test/java/org/infinispan/interceptors/CustomInterceptorTest.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/core/src/test/java/org/infinispan/interceptors/ConcurrentInterceptorVisibilityTest.java">
+<error line="59" column="13" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="83" column="13" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/core/src/test/java/org/infinispan/interceptors/MarshalledValueInterceptorTest.java">
 </file>
@@ -2641,6 +2666,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/core/src/test/java/org/infinispan/tx/lockreordering/ReplicatedLockReorderingTest.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/core/src/test/java/org/infinispan/tx/lockreordering/StresserThread.java">
+<error line="57" column="13" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/core/src/test/java/org/infinispan/tx/lockreordering/LocalLockReorderingTest.java">
 </file>
@@ -2707,6 +2733,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/core/src/test/java/org/infinispan/tx/Use1PcForInducedTxLockingTest.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/core/src/test/java/org/infinispan/tx/DummyTransactionTest.java">
+<error line="381" column="10" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/core/src/test/java/org/infinispan/tx/TransactionsSpanningDistributedCachesTest.java">
 </file>
@@ -2851,6 +2878,9 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/core/src/test/java/org/infinispan/notifications/cachelistener/CacheNotifierInvalidationTest.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/core/src/test/java/org/infinispan/notifications/cachelistener/CacheListenerVisibilityTest.java">
+<error line="214" column="7" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="235" column="7" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="251" column="7" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/core/src/test/java/org/infinispan/notifications/cachelistener/TransactionSuspendedCacheNotifierTest.java">
 </file>
@@ -2963,6 +2993,8 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/core/src/test/java/org/infinispan/profiling/DeadlockDetectionPerformanceTest.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/core/src/test/java/org/infinispan/profiling/ProfileTest.java">
+<error line="173" column="10" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="229" column="13" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/core/src/test/java/org/infinispan/replication/ReplQueueRestartTest.java">
 </file>
@@ -3169,6 +3201,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/core/src/test/java/org/infinispan/distribution/InvalidationFailureTest.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/core/src/test/java/org/infinispan/distribution/HashFunctionComparisonTest.java">
+<error line="264" column="7" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/core/src/test/java/org/infinispan/distribution/rehash/SingleLeaveTest.java">
 </file>
@@ -3217,6 +3250,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/core/src/test/java/org/infinispan/distribution/rehash/ConcurrentOverlappingLeaveTest.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/core/src/test/java/org/infinispan/distribution/rehash/OngoingTransactionsAndJoinTest.java">
+<error line="284" column="13" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/core/src/test/java/org/infinispan/distribution/rehash/NonTxPutIfAbsentDuringLeaveStressTest.java">
 </file>
@@ -3459,6 +3493,8 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/core/src/main/java/org/infinispan/iteration/impl/TrackingEntryIterable.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/core/src/main/java/org/infinispan/iteration/impl/DistributedEntryRetriever.java">
+<error line="739" column="16" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="770" column="16" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/core/src/main/java/org/infinispan/iteration/package-info.java">
 </file>
@@ -3619,10 +3655,13 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/core/src/main/java/org/infinispan/persistence/PrimaryOwnerFilter.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/core/src/main/java/org/infinispan/persistence/async/State.java">
+<error line="109" column="10" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/core/src/main/java/org/infinispan/persistence/async/AdvancedAsyncCacheLoader.java">
+<error line="55" column="10" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/core/src/main/java/org/infinispan/persistence/async/AsyncCacheLoader.java">
+<error line="36" column="10" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/core/src/main/java/org/infinispan/persistence/async/BufferLock.java">
 </file>
@@ -3771,6 +3810,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/core/src/main/java/org/infinispan/configuration/cache/AbstractModuleConfigurationBuilder.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/core/src/main/java/org/infinispan/configuration/cache/CacheMode.java">
+<error line="96" column="7" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/core/src/main/java/org/infinispan/configuration/cache/CompatibilityModeConfigurationBuilder.java">
 </file>
@@ -4117,6 +4157,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/core/src/main/java/org/infinispan/remoting/transport/AbstractTransport.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/core/src/main/java/org/infinispan/remoting/transport/jgroups/CommandAwareRpcDispatcher.java">
+<error line="360" column="7" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/core/src/main/java/org/infinispan/remoting/transport/jgroups/package-info.java">
 </file>
@@ -4125,6 +4166,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/core/src/main/java/org/infinispan/remoting/transport/jgroups/SuspectException.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/core/src/main/java/org/infinispan/remoting/transport/jgroups/JGroupsTransport.java">
+<error line="685" column="7" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/core/src/main/java/org/infinispan/remoting/transport/jgroups/JGroupsResponseFilterAdapter.java">
 </file>
@@ -4175,6 +4217,8 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/core/src/main/java/org/infinispan/manager/EmbeddedCacheManagerStartupException.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/core/src/main/java/org/infinispan/statetransfer/CommitManager.java">
+<error line="134" column="7" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="163" column="7" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/core/src/main/java/org/infinispan/statetransfer/OutdatedTopologyException.java">
 </file>
@@ -4295,6 +4339,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/core/src/main/java/org/infinispan/transaction/tm/DummyBaseTransactionManager.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/core/src/main/java/org/infinispan/transaction/tm/DummyTransaction.java">
+<error line="491" column="7" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/core/src/main/java/org/infinispan/transaction/tm/DummyTransactionManager.java">
 </file>
@@ -4471,6 +4516,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/core/src/main/java/org/infinispan/util/concurrent/IsolationLevel.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/core/src/main/java/org/infinispan/util/concurrent/BoundedConcurrentHashMap.java">
+<error line="812" column="9" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/core/src/main/java/org/infinispan/util/concurrent/TimeoutException.java">
 </file>
@@ -4535,18 +4581,22 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/core/src/main/java/org/infinispan/marshall/exts/CacheRpcCommandExternalizer.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/core/src/main/java/org/infinispan/marshall/exts/EnumSetExternalizer.java">
+<error line="71" column="10" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/core/src/main/java/org/infinispan/marshall/exts/ArrayExternalizers.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/core/src/main/java/org/infinispan/marshall/exts/package-info.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/core/src/main/java/org/infinispan/marshall/exts/ListExternalizer.java">
+<error line="53" column="7" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/core/src/main/java/org/infinispan/marshall/exts/SetExternalizer.java">
+<error line="51" column="7" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/core/src/main/java/org/infinispan/marshall/exts/ReplicableCommandExternalizer.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/core/src/main/java/org/infinispan/marshall/exts/MapExternalizer.java">
+<error line="67" column="7" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/core/src/main/java/org/infinispan/cache/impl/AbstractDelegatingAdvancedCache.java">
 </file>
@@ -4941,6 +4991,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/core/src/main/java/org/infinispan/metadata/Metadatas.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/core/src/main/java/org/infinispan/metadata/EmbeddedMetadata.java">
+<error line="332" column="10" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/core/src/main/java/org/infinispan/metadata/Metadata.java">
 </file>
@@ -4989,6 +5040,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/core/src/main/java/org/infinispan/factories/CacheStoreFactoryRegistryFactory.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/core/src/main/java/org/infinispan/factories/InterceptorChainFactory.java">
+<error line="268" column="7" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/core/src/main/java/org/infinispan/factories/AbstractNamedCacheComponentFactory.java">
 </file>
@@ -5001,6 +5053,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/core/src/main/java/org/infinispan/factories/EntryRetrieverFactory.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/core/src/main/java/org/infinispan/factories/threads/ThreadNameInfo.java">
+<error line="54" column="13" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/core/src/main/java/org/infinispan/factories/threads/DefaultThreadFactory.java">
 </file>
@@ -5563,6 +5616,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/core/src/main/java/org/infinispan/distribution/ch/impl/ReplicatedConsistentHash.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/core/src/main/java/org/infinispan/distribution/ch/impl/TopologyAwareSyncConsistentHashFactory.java">
+<error line="104" column="13" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/core/src/main/java/org/infinispan/distribution/ch/impl/DefaultConsistentHashFactory.java">
 </file>
@@ -5989,6 +6043,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/cli/cli-interpreter/src/main/java/org/infinispan/cli/interpreter/Interpreter.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/cli/cli-interpreter/src/main/java/org/infinispan/cli/interpreter/statement/EncodingStatement.java">
+<error line="37" column="10" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/cli/cli-interpreter/src/main/java/org/infinispan/cli/interpreter/statement/VersionStatement.java">
 </file>
@@ -6005,10 +6060,12 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/cli/cli-interpreter/src/main/java/org/infinispan/cli/interpreter/statement/StartBatchStatement.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/cli/cli-interpreter/src/main/java/org/infinispan/cli/interpreter/statement/PutStatement.java">
+<error line="54" column="13" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/cli/cli-interpreter/src/main/java/org/infinispan/cli/interpreter/statement/RolesStatement.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/cli/cli-interpreter/src/main/java/org/infinispan/cli/interpreter/statement/ReplaceStatement.java">
+<error line="55" column="13" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/cli/cli-interpreter/src/main/java/org/infinispan/cli/interpreter/statement/GetStatement.java">
 </file>
@@ -6021,8 +6078,10 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/cli/cli-interpreter/src/main/java/org/infinispan/cli/interpreter/statement/PingStatement.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/cli/cli-interpreter/src/main/java/org/infinispan/cli/interpreter/statement/StatsStatement.java">
+<error line="50" column="13" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/cli/cli-interpreter/src/main/java/org/infinispan/cli/interpreter/statement/SiteStatement.java">
+<error line="47" column="10" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/cli/cli-interpreter/src/main/java/org/infinispan/cli/interpreter/statement/DenyStatement.java">
 </file>
@@ -6039,10 +6098,12 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/cli/cli-interpreter/src/main/java/org/infinispan/cli/interpreter/statement/InfoStatement.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/cli/cli-interpreter/src/main/java/org/infinispan/cli/interpreter/statement/UpgradeStatement.java">
+<error line="47" column="10" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/cli/cli-interpreter/src/main/java/org/infinispan/cli/interpreter/statement/GrantStatement.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/cli/cli-interpreter/src/main/java/org/infinispan/cli/interpreter/statement/LocateStatement.java">
+<error line="43" column="13" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/cli/cli-interpreter/src/main/java/org/infinispan/cli/interpreter/statement/RemoveStatement.java">
 </file>
@@ -6207,10 +6268,14 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/cli/cli-client/src/main/java/org/infinispan/cli/shell/Shell.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/cli/cli-client/src/main/java/org/infinispan/cli/shell/ShellImpl.java">
+<error line="62" column="10" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="103" column="7" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/cli/cli-client/src/main/java/org/infinispan/cli/shell/ShellMode.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/cli/cli-client/src/main/java/org/infinispan/cli/shell/Prompt.java">
+<error line="21" column="10" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="27" column="16" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/cli/cli-client/src/main/java/org/infinispan/cli/shell/Color.java">
 </file>
@@ -6261,6 +6326,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/scripting/src/main/java/org/infinispan/scripting/impl/ScriptingInterceptor.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/scripting/src/main/java/org/infinispan/scripting/impl/ScriptingManagerImpl.java">
+<error line="214" column="13" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/scripting/src/main/java/org/infinispan/scripting/impl/ScriptingMetadataFileFinder.java">
 </file>
@@ -6281,6 +6347,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/tools/src/test/java/org/infinispan/test/fwk/TestNameVerifier.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/tools/src/main/java/org/infinispan/tools/xsd/XSDoc.java">
+<error line="105" column="10" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/tools/src/main/java/org/infinispan/tools/rhq/RhqPluginXmlGenerator.java">
 </file>
@@ -6647,6 +6714,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/remote-query/remote-query-server/src/main/java/org/infinispan/query/remote/ProgrammaticSearchMappingProviderImpl.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/remote-query/remote-query-server/src/main/java/org/infinispan/query/remote/QueryFacadeImpl.java">
+<error line="239" column="16" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/remote-query/remote-query-client/src/main/java/org/infinispan/query/remote/client/QueryRequest.java">
 </file>
@@ -6691,6 +6759,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/object-filter/src/test/java/org/infinispan/objectfilter/test/model/MarshallerRegistration.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/object-filter/src/test/java/org/infinispan/objectfilter/test/model/GenderMarshaller.java">
+<error line="13" column="7" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/object-filter/src/test/java/org/infinispan/objectfilter/test/model/Address.java">
 </file>
@@ -6745,6 +6814,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/object-filter/src/main/java/org/infinispan/objectfilter/impl/hql/FilterEntityTypeDescriptor.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/object-filter/src/main/java/org/infinispan/objectfilter/impl/hql/ProtobufPropertyHelper.java">
+<error line="38" column="7" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/object-filter/src/main/java/org/infinispan/objectfilter/impl/hql/FilterProcessingChain.java">
 </file>
@@ -6765,6 +6835,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/object-filter/src/main/java/org/infinispan/objectfilter/impl/MetadataAdapter.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/object-filter/src/main/java/org/infinispan/objectfilter/impl/ProtobufMatcher.java">
+<error line="121" column="10" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/object-filter/src/main/java/org/infinispan/objectfilter/impl/package-info.java">
 </file>
@@ -7351,6 +7422,11 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/commons/src/main/java/org/infinispan/commons/util/concurrent/jdk8backported/ForkJoinPool.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/commons/src/main/java/org/infinispan/commons/util/concurrent/jdk8backported/BoundedEquivalentConcurrentHashMapV8.java">
+<error line="824" column="19" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="975" column="16" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="1108" column="13" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="1212" column="13" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="1326" column="22" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/commons/src/main/java/org/infinispan/commons/util/concurrent/jdk8backported/LongAdder.java">
 </file>
@@ -7477,14 +7553,18 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/commons/src/main/java/org/infinispan/commons/logging/Log.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/commons/src/main/java/org/infinispan/commons/hash/MurmurHash2Compat.java">
+<error line="60" column="7" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/commons/src/main/java/org/infinispan/commons/hash/package-info.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/commons/src/main/java/org/infinispan/commons/hash/MurmurHash2.java">
+<error line="57" column="7" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/commons/src/main/java/org/infinispan/commons/hash/Hash.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/commons/src/main/java/org/infinispan/commons/hash/MurmurHash3.java">
+<error line="125" column="7" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="188" column="7" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/commons/src/main/java/org/infinispan/commons/io/ByteBufferFactoryImpl.java">
 </file>
@@ -7721,6 +7801,8 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/server/integration/testsuite/src/test/java/org/infinispan/server/test/client/hotrod/AbstractRemoteCacheManagerIT.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/server/integration/testsuite/src/test/java/org/infinispan/server/test/client/hotrod/AbstractRemoteCacheIT.java">
+<error line="990" column="9" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="1014" column="9" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/server/integration/testsuite/src/test/java/org/infinispan/server/test/client/hotrod/FilterConverterFactory.java">
 </file>
@@ -8515,6 +8597,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/server/integration/endpoint/src/main/java/org/infinispan/server/endpoint/subsystem/MemcachedSubsystemRemove.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/server/integration/endpoint/src/main/java/org/infinispan/server/endpoint/subsystem/ProtocolServerMetricsHandler.java">
+<error line="80" column="10" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/server/integration/endpoint/src/main/java/org/infinispan/server/endpoint/EndpointLogger.java">
 </file>
@@ -8585,6 +8668,8 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/tree/src/test/java/org/infinispan/tx/TransactionManagerLookupTreeTest.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/tree/src/test/java/org/infinispan/profiling/TreeProfileTest.java">
+<error line="199" column="10" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="254" column="13" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/tree/src/test/java/org/infinispan/profiling/testinternals/FqnGenerator.java">
 </file>
@@ -8601,6 +8686,8 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/tree/src/main/java/org/infinispan/tree/impl/TreeCacheImpl.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/tree/src/main/java/org/infinispan/tree/impl/NodeKey.java">
+<error line="78" column="10" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="94" column="10" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/tree/src/main/java/org/infinispan/tree/TreeCache.java">
 </file>
@@ -9071,6 +9158,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/query/src/main/java/org/infinispan/query/backend/ReadIntensiveClusterRegistryWrapper.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/query/src/main/java/org/infinispan/query/backend/KeyTransformationHandler.java">
+<error line="44" column="7" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/query/src/main/java/org/infinispan/query/backend/SearchWorkCreatorContext.java">
 </file>
@@ -9313,6 +9401,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/query-dsl/src/main/java/org/infinispan/query/dsl/FilterConditionEndContext.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/extended-statistics/src/test/java/org/infinispan/stats/BaseClusteredExtendedStatisticTest.java">
+<error line="450" column="13" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/infinispan/extended-statistics/src/test/java/org/infinispan/stats/topK/DistTopKeyTest.java">
 </file>

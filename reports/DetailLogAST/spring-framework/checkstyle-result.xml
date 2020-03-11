@@ -255,6 +255,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spring-framework/spring-jms/src/main/java/org/springframework/jms/connection/CachingConnectionFactory.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spring-framework/spring-jms/src/main/java/org/springframework/jms/connection/CachedMessageProducer.java">
+<error line="278" column="41" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spring-framework/spring-jms/src/main/java/org/springframework/jms/connection/ChainedExceptionListener.java">
 </file>
@@ -1531,6 +1532,8 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spring-framework/spring-core/src/main/java/org/springframework/asm/Frame.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spring-framework/spring-core/src/main/java/org/springframework/asm/MethodWriter.java">
+<error line="664" column="13" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="1877" column="13" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spring-framework/spring-core/src/main/java/org/springframework/asm/package-info.java">
 </file>
@@ -1557,6 +1560,8 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spring-framework/spring-core/src/main/java/org/springframework/asm/Type.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spring-framework/spring-core/src/main/java/org/springframework/asm/ClassReader.java">
+<error line="1838" column="9" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="2417" column="13" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spring-framework/spring-core/src/main/java/org/springframework/asm/AnnotationVisitor.java">
 </file>
@@ -1627,6 +1632,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spring-framework/spring-core/src/main/java/org/springframework/util/xml/StaxSource.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spring-framework/spring-core/src/main/java/org/springframework/util/xml/StaxEventXMLReader.java">
+<error line="104" column="25" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spring-framework/spring-core/src/main/java/org/springframework/util/xml/package-info.java">
 </file>
@@ -1651,6 +1657,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spring-framework/spring-core/src/main/java/org/springframework/util/xml/XmlValidationModeDetector.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spring-framework/spring-core/src/main/java/org/springframework/util/xml/StaxStreamXMLReader.java">
+<error line="85" column="25" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spring-framework/spring-core/src/main/java/org/springframework/util/xml/XMLEventStreamWriter.java">
 </file>
@@ -1681,6 +1688,9 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spring-framework/spring-core/src/main/java/org/springframework/util/comparator/BooleanComparator.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spring-framework/spring-core/src/main/java/org/springframework/util/concurrent/ListenableFutureCallbackRegistry.java">
+<error line="54" column="25" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="78" column="25" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="98" column="25" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spring-framework/spring-core/src/main/java/org/springframework/util/concurrent/SuccessCallback.java">
 </file>
@@ -1901,6 +1911,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spring-framework/spring-expression/src/main/java/org/springframework/expression/common/LiteralExpression.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spring-framework/spring-expression/src/main/java/org/springframework/expression/common/TemplateAwareExpressionParser.java">
+<error line="219" column="25" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spring-framework/spring-expression/src/main/java/org/springframework/expression/PropertyAccessor.java">
 </file>
@@ -1943,6 +1954,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spring-framework/spring-expression/src/main/java/org/springframework/expression/spel/ast/QualifiedIdentifier.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spring-framework/spring-expression/src/main/java/org/springframework/expression/spel/ast/Selection.java">
+<error line="185" column="17" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spring-framework/spring-expression/src/main/java/org/springframework/expression/spel/ast/OperatorNot.java">
 </file>
@@ -2027,12 +2039,14 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spring-framework/spring-expression/src/main/java/org/springframework/expression/spel/CompiledExpression.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spring-framework/spring-expression/src/main/java/org/springframework/expression/spel/SpelMessage.java">
+<error line="282" column="17" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spring-framework/spring-expression/src/main/java/org/springframework/expression/spel/SpelParserConfiguration.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spring-framework/spring-expression/src/main/java/org/springframework/expression/spel/CompilablePropertyAccessor.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spring-framework/spring-expression/src/main/java/org/springframework/expression/spel/CodeFlow.java">
+<error line="574" column="25" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spring-framework/spring-expression/src/main/java/org/springframework/expression/spel/SpelEvaluationException.java">
 </file>
@@ -4827,6 +4841,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spring-framework/spring-web/src/main/java/org/springframework/web/util/HtmlCharacterEntityDecoder.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spring-framework/spring-web/src/main/java/org/springframework/web/util/HtmlCharacterEntityReferences.java">
+<error line="134" column="25" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spring-framework/spring-web/src/main/java/org/springframework/web/util/package-info.java">
 </file>
@@ -8467,6 +8482,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spring-framework/spring-context/src/main/java/org/springframework/jmx/support/MetricType.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spring-framework/spring-context/src/main/java/org/springframework/jmx/support/RegistrationPolicy.java">
+<error line="55" column="17" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spring-framework/spring-context/src/main/java/org/springframework/jmx/support/MBeanServerConnectionFactoryBean.java">
 </file>
@@ -8811,6 +8827,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spring-framework/spring-context/src/main/java/org/springframework/format/datetime/DateFormatterRegistrar.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spring-framework/spring-context/src/main/java/org/springframework/format/datetime/DateFormatter.java">
+<error line="202" column="25" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spring-framework/spring-context/src/main/java/org/springframework/format/datetime/joda/LocalDateParser.java">
 </file>
@@ -9071,6 +9088,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spring-framework/spring-context/src/main/java/org/springframework/context/annotation/ComponentScanAnnotationParser.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spring-framework/spring-context/src/main/java/org/springframework/context/annotation/LoadTimeWeavingConfiguration.java">
+<error line="88" column="17" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spring-framework/spring-context/src/main/java/org/springframework/context/annotation/ClassPathScanningCandidateComponentProvider.java">
 </file>
@@ -9917,6 +9935,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spring-framework/spring-aop/src/main/java/org/springframework/aop/aspectj/annotation/SingletonMetadataAwareAspectInstanceFactory.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spring-framework/spring-aop/src/main/java/org/springframework/aop/aspectj/annotation/InstantiationModelAwarePointcutAdvisorImpl.java">
+<error line="200" column="25" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spring-framework/spring-aop/src/main/java/org/springframework/aop/aspectj/MethodInvocationProceedingJoinPoint.java">
 </file>
@@ -10881,6 +10900,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spring-framework/spring-beans/src/main/java/org/springframework/beans/BeanMetadataElement.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spring-framework/spring-beans/src/main/java/org/springframework/beans/PropertyAccessorUtils.java">
+<error line="91" column="25" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spring-framework/spring-beans/src/main/java/org/springframework/beans/PropertyAccessorFactory.java">
 </file>
@@ -11659,6 +11679,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spring-framework/spring-websocket/src/main/java/org/springframework/web/socket/server/standard/SpringConfigurator.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spring-framework/spring-websocket/src/main/java/org/springframework/web/socket/server/standard/AbstractTyrusRequestUpgradeStrategy.java">
+<error line="109" column="25" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spring-framework/spring-websocket/src/main/java/org/springframework/web/socket/server/standard/package-info.java">
 </file>

@@ -5831,6 +5831,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/hibernate-orm-with-excludes/hibernate-core/src/main/java/org/hibernate/event/service/internal/EventListenerRegistryImpl.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/hibernate-orm-with-excludes/hibernate-core/src/main/java/org/hibernate/event/service/internal/EventListenerGroupImpl.java">
+<error line="140" column="41" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/hibernate-orm-with-excludes/hibernate-core/src/main/java/org/hibernate/event/internal/EntityCopyAllowedObserver.java">
 </file>
@@ -6425,6 +6426,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/hibernate-orm-with-excludes/hibernate-core/src/main/java/org/hibernate/metamodel/source/annotations/xml/mocker/EmbeddedMocker.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/hibernate-orm-with-excludes/hibernate-core/src/main/java/org/hibernate/metamodel/source/annotations/xml/mocker/MockHelper.java">
+<error line="323" column="17" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/hibernate-orm-with-excludes/hibernate-core/src/main/java/org/hibernate/metamodel/source/annotations/xml/mocker/AnnotationMocker.java">
 </file>
@@ -6457,6 +6459,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/hibernate-orm-with-excludes/hibernate-core/src/main/java/org/hibernate/metamodel/source/annotations/xml/filter/IndexedAnnotationFilter.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/hibernate-orm-with-excludes/hibernate-core/src/main/java/org/hibernate/metamodel/source/annotations/xml/filter/ExclusiveAnnotationFilter.java">
+<error line="131" column="25" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/hibernate-orm-with-excludes/hibernate-core/src/main/java/org/hibernate/metamodel/source/annotations/xml/filter/NameTargetAnnotationFilter.java">
 </file>
@@ -6495,6 +6498,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/hibernate-orm-with-excludes/hibernate-core/src/main/java/org/hibernate/metamodel/source/annotations/AnnotationMetadataSourceProcessorImpl.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/hibernate-orm-with-excludes/hibernate-core/src/main/java/org/hibernate/metamodel/source/annotations/EnumConversionHelper.java">
+<error line="48" column="17" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/hibernate-orm-with-excludes/hibernate-core/src/main/java/org/hibernate/metamodel/source/annotations/attribute/type/AttributeTypeResolver.java">
 </file>
@@ -6619,6 +6623,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/hibernate-orm-with-excludes/hibernate-core/src/main/java/org/hibernate/metamodel/source/binder/SubclassEntitySource.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/hibernate-orm-with-excludes/hibernate-core/src/main/java/org/hibernate/metamodel/source/binder/Binder.java">
+<error line="312" column="17" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/hibernate-orm-with-excludes/hibernate-core/src/main/java/org/hibernate/metamodel/source/binder/SingularAttributeSource.java">
 </file>
@@ -7239,6 +7244,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/hibernate-orm-with-excludes/hibernate-core/src/main/java/org/hibernate/internal/util/collections/JoinedIterable.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/hibernate-orm-with-excludes/hibernate-core/src/main/java/org/hibernate/internal/util/collections/BoundedConcurrentHashMap.java">
+<error line="769" column="25" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/hibernate-orm-with-excludes/hibernate-core/src/main/java/org/hibernate/internal/util/collections/IdentitySet.java">
 </file>
@@ -7973,6 +7979,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/hibernate-orm-with-excludes/hibernate-core/src/main/java/org/hibernate/dialect/FirebirdDialect.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/hibernate-orm-with-excludes/hibernate-core/src/main/java/org/hibernate/dialect/TeradataDialect.java">
+<error line="200" column="17" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/hibernate-orm-with-excludes/hibernate-core/src/main/java/org/hibernate/dialect/TypeNames.java">
 </file>
@@ -8441,6 +8448,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/hibernate-orm-with-excludes/hibernate-core/src/main/java/org/hibernate/engine/internal/UnsavedValueFactory.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/hibernate-orm-with-excludes/hibernate-core/src/main/java/org/hibernate/engine/internal/StatefulPersistenceContext.java">
+<error line="1965" column="25" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/hibernate-orm-with-excludes/hibernate-core/src/main/java/org/hibernate/engine/internal/Cascade.java">
 </file>
@@ -8543,6 +8551,9 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/hibernate-orm-with-excludes/hibernate-core/src/main/java/org/hibernate/cfg/CopyIdentifierComponentSecondPass.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/hibernate-orm-with-excludes/hibernate-core/src/main/java/org/hibernate/cfg/AnnotationBinder.java">
+<error line="3013" column="17" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="3036" column="33" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="3086" column="25" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/hibernate-orm-with-excludes/hibernate-core/src/main/java/org/hibernate/cfg/AccessType.java">
 </file>
@@ -9691,6 +9702,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/hibernate-orm-with-excludes/hibernate-testing/src/main/java/org/hibernate/testing/BeforeClassOnce.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/hibernate-orm-with-excludes/hibernate-envers/src/demo/java/org/hibernate/envers/demo/TestConsole.java">
+<error line="318" column="17" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/hibernate-orm-with-excludes/hibernate-envers/src/demo/java/org/hibernate/envers/demo/Address.java">
 </file>
@@ -11133,6 +11145,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/hibernate-orm-with-excludes/hibernate-envers/src/main/java/org/hibernate/envers/ModifiedEntityNames.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/hibernate-orm-with-excludes/hibernate-envers/src/main/java/org/hibernate/envers/RevisionType.java">
+<error line="60" column="9" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/hibernate-orm-with-excludes/hibernate-envers/src/main/java/org/hibernate/envers/CrossTypeRevisionChangesReader.java">
 </file>
@@ -11417,6 +11430,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/hibernate-orm-with-excludes/hibernate-envers/src/main/java/org/hibernate/envers/query/criteria/AuditId.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/hibernate-orm-with-excludes/hibernate-envers/src/main/java/org/hibernate/envers/query/criteria/AggregatedAuditExpression.java">
+<error line="77" column="9" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/hibernate-orm-with-excludes/hibernate-envers/src/main/java/org/hibernate/envers/query/criteria/RevisionTypeAuditExpression.java">
 </file>
@@ -12395,6 +12409,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/hibernate-orm-with-excludes/hibernate-entitymanager/src/test/java/org/hibernate/ejb/criteria/basic/CastTest.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/hibernate-orm-with-excludes/hibernate-entitymanager/src/test/java/org/hibernate/ejb/criteria/basic/Date3Type.java">
+<error line="38" column="17" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/hibernate-orm-with-excludes/hibernate-entitymanager/src/test/java/org/hibernate/ejb/criteria/basic/Payment.java">
 </file>
@@ -12677,6 +12692,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/hibernate-orm-with-excludes/hibernate-entitymanager/src/main/java/org/hibernate/ejb/criteria/TupleElementImplementor.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/hibernate-orm-with-excludes/hibernate-entitymanager/src/main/java/org/hibernate/ejb/criteria/QueryStructure.java">
+<error line="361" column="17" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/hibernate-orm-with-excludes/hibernate-entitymanager/src/main/java/org/hibernate/ejb/criteria/Renderable.java">
 </file>

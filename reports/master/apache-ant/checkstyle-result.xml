@@ -609,6 +609,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/apache-ant/src/tests/junit/org/apache/tools/ant/types/selectors/MockAlgorithm.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/apache-ant/src/tests/junit/org/apache/tools/ant/types/selectors/ModifiedSelectorTest.java">
+<error line="263" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/apache-ant/src/tests/junit/org/apache/tools/ant/types/selectors/MockComparator.java">
 </file>

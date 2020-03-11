@@ -127,6 +127,9 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/test/java/org/elasticsearch/common/cli/TerminalTests.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/test/java/org/elasticsearch/common/cli/CheckFileCommandTests.java">
+<error line="203" column="13" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="232" column="13" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="262" column="13" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/test/java/org/elasticsearch/common/cli/CliToolTests.java">
 </file>
@@ -193,6 +196,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/test/java/org/elasticsearch/common/xcontent/cbor/CborXContentParserTests.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/test/java/org/elasticsearch/common/xcontent/cbor/JsonVsCborTests.java">
+<error line="86" column="13" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/test/java/org/elasticsearch/common/xcontent/XContentFactoryTests.java">
 </file>
@@ -205,6 +209,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/test/java/org/elasticsearch/common/xcontent/builder/BuilderRawFieldTests.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/test/java/org/elasticsearch/common/xcontent/smile/JsonVsSmileTests.java">
+<error line="91" column="13" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/test/java/org/elasticsearch/common/logging/jdk/JDKESLoggerTests.java">
 </file>
@@ -243,6 +248,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/test/java/org/elasticsearch/common/lucene/search/TermsFilterTests.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/test/java/org/elasticsearch/common/lucene/search/XBooleanFilterTests.java">
+<error line="449" column="17" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/test/java/org/elasticsearch/common/lucene/LuceneTest.java">
 </file>
@@ -499,6 +505,9 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/test/java/org/elasticsearch/test/discovery/ClusterDiscoveryConfiguration.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/test/java/org/elasticsearch/test/ElasticsearchIntegrationTest.java">
+<error line="515" column="9" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="532" column="9" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="587" column="9" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/test/java/org/elasticsearch/test/client/RandomizingClient.java">
 </file>
@@ -549,6 +558,8 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/test/java/org/elasticsearch/test/engine/AssertingSearcher.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/test/java/org/elasticsearch/test/engine/MockSharedFSEngine.java">
+<error line="51" column="9" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="65" column="9" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/test/java/org/elasticsearch/test/engine/MockEngineSupport.java">
 </file>
@@ -811,6 +822,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/test/java/org/elasticsearch/search/source/SourceFetchingTests.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/test/java/org/elasticsearch/search/facet/ExtendedFacetsTests.java">
+<error line="284" column="9" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/test/java/org/elasticsearch/search/facet/terms/ShardSizeTermsFacetTests.java">
 </file>
@@ -897,6 +909,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/test/java/org/elasticsearch/search/aggregations/bucket/ChildrenTests.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/test/java/org/elasticsearch/search/aggregations/bucket/SignificantTermsSignificanceScoreTests.java">
+<error line="540" column="9" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/test/java/org/elasticsearch/search/aggregations/bucket/package-info.java">
 </file>
@@ -969,6 +982,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/test/java/org/elasticsearch/search/scan/SearchScanTests.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/test/java/org/elasticsearch/search/basic/SearchWithRandomExceptionsTests.java">
+<error line="340" column="17" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/test/java/org/elasticsearch/search/basic/SearchWhileCreatingIndexTests.java">
 </file>
@@ -1011,6 +1025,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/test/java/org/elasticsearch/search/query/SearchQueryTests.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/test/java/org/elasticsearch/search/query/MultiMatchQueryTests.java">
+<error line="583" column="17" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/test/java/org/elasticsearch/search/geo/GeoPolygonTests.java">
 </file>
@@ -1067,6 +1082,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/test/java/org/elasticsearch/search/sort/SortParserTests.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/test/java/org/elasticsearch/search/sort/SimpleSortTests.java">
+<error line="1872" column="13" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/test/java/org/elasticsearch/timestamp/SimpleTimestampTests.java">
 </file>
@@ -1197,6 +1213,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/test/java/org/elasticsearch/cluster/routing/allocation/RandomAllocationDeciderTests.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/test/java/org/elasticsearch/cluster/routing/allocation/BalanceConfigurationTests.java">
+<error line="404" column="21" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/test/java/org/elasticsearch/cluster/routing/allocation/ClusterRebalanceRoutingTests.java">
 </file>
@@ -1231,6 +1248,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/test/java/org/elasticsearch/cluster/metadata/MappingMetaDataParserTests.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/test/java/org/elasticsearch/cluster/shards/ClusterSearchShardsTests.java">
+<error line="41" column="9" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/test/java/org/elasticsearch/cluster/MinimumMasterNodesTests.java">
 </file>
@@ -1271,6 +1289,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/test/java/org/elasticsearch/percolator/TTLPercolatorTests.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/test/java/org/elasticsearch/percolator/ConcurrentPercolatorTests.java">
+<error line="241" column="29" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/test/java/org/elasticsearch/percolator/PercolatorTests.java">
 </file>
@@ -1365,6 +1384,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/test/java/org/elasticsearch/indices/memory/IndexingMemoryControllerTests.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/test/java/org/elasticsearch/indices/memory/breaker/RandomExceptionCircuitBreakerTests.java">
+<error line="225" column="17" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/test/java/org/elasticsearch/indices/memory/breaker/CircuitBreakerServiceTests.java">
 </file>
@@ -1691,6 +1711,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/test/java/org/elasticsearch/index/search/child/ScoreTypeTests.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/test/java/org/elasticsearch/index/search/child/MockScorer.java">
+<error line="50" column="17" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/test/java/org/elasticsearch/index/search/child/AbstractChildTests.java">
 </file>
@@ -1835,6 +1856,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/test/java/org/elasticsearch/action/termvector/MultiTermVectorsTests.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/test/java/org/elasticsearch/action/termvector/GetTermVectorTests.java">
+<error line="224" column="9" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/test/java/org/elasticsearch/action/percolate/MultiPercolatorRequestTests.java">
 </file>
@@ -2171,6 +2193,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/main/java/org/elasticsearch/common/blobstore/BlobPath.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/main/java/org/elasticsearch/common/Strings.java">
+<error line="93" column="21" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/main/java/org/elasticsearch/common/recycler/AbstractRecycler.java">
 </file>
@@ -2263,6 +2286,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/main/java/org/elasticsearch/common/util/AbstractPagedHashMap.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/main/java/org/elasticsearch/common/util/BloomFilter.java">
+<error line="557" column="9" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/main/java/org/elasticsearch/common/util/BigIntArray.java">
 </file>
@@ -2815,6 +2839,8 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/main/java/org/elasticsearch/common/TimeBasedUUIDGenerator.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/main/java/org/elasticsearch/common/xcontent/XContentHelper.java">
+<error line="368" column="9" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="392" column="17" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/main/java/org/elasticsearch/common/xcontent/yaml/YamlXContentParser.java">
 </file>
@@ -2835,6 +2861,8 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/main/java/org/elasticsearch/common/xcontent/json/JsonXContent.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/main/java/org/elasticsearch/common/xcontent/json/JsonXContentParser.java">
+<error line="197" column="9" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="214" column="9" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/main/java/org/elasticsearch/common/xcontent/StatusToXContent.java">
 </file>
@@ -2905,6 +2933,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/main/java/org/elasticsearch/common/breaker/NoopCircuitBreaker.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/main/java/org/elasticsearch/common/hash/MurmurHash3.java">
+<error line="100" column="9" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/main/java/org/elasticsearch/common/Numbers.java">
 </file>
@@ -2941,6 +2970,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/main/java/org/elasticsearch/common/io/stream/StreamOutput.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/main/java/org/elasticsearch/common/io/stream/StreamInput.java">
+<error line="266" column="13" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/main/java/org/elasticsearch/common/io/stream/NoopStreamOutput.java">
 </file>
@@ -3179,6 +3209,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/main/java/org/elasticsearch/script/mustache/MustacheScriptEngineService.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/main/java/org/elasticsearch/script/mustache/JsonEscapingMustacheFactory.java">
+<error line="53" column="9" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/main/java/org/elasticsearch/script/NativeScriptEngineService.java">
 </file>
@@ -4817,6 +4848,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/main/java/org/elasticsearch/indices/ttl/IndicesTTLService.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/main/java/org/elasticsearch/indices/IndicesService.java">
+<error line="193" column="17" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/main/java/org/elasticsearch/indices/store/IndicesStore.java">
 </file>
@@ -5149,6 +5181,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/main/java/org/elasticsearch/index/analysis/HindiAnalyzerProvider.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/main/java/org/elasticsearch/index/analysis/WordDelimiterTokenFilterFactory.java">
+<error line="170" column="17" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/main/java/org/elasticsearch/index/analysis/AbstractCharFilterFactory.java">
 </file>
@@ -5199,6 +5232,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/main/java/org/elasticsearch/index/analysis/SnowballAnalyzerProvider.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/main/java/org/elasticsearch/index/analysis/MappingCharFilterFactory.java">
+<error line="92" column="17" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/main/java/org/elasticsearch/index/analysis/ArabicStemTokenFilterFactory.java">
 </file>
@@ -5691,6 +5725,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/main/java/org/elasticsearch/index/fieldvisitor/FieldsVisitor.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/main/java/org/elasticsearch/index/fieldvisitor/SingleFieldsVisitor.java">
+<error line="60" column="13" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/main/java/org/elasticsearch/index/fieldvisitor/AllFieldsVisitor.java">
 </file>
@@ -5841,6 +5876,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/main/java/org/elasticsearch/index/search/child/ChildrenConstantScoreQuery.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/main/java/org/elasticsearch/index/search/child/ChildrenQuery.java">
+<error line="178" column="17" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/main/java/org/elasticsearch/index/search/child/TopChildrenQuery.java">
 </file>
@@ -6749,6 +6785,8 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/main/java/org/elasticsearch/action/bulk/BulkItemRequest.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/main/java/org/elasticsearch/action/bulk/TransportShardBulkAction.java">
+<error line="245" column="25" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="312" column="33" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/main/java/org/elasticsearch/action/bulk/BulkResponse.java">
 </file>
@@ -7175,6 +7213,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/main/java/org/elasticsearch/action/admin/cluster/stats/ClusterStatsIndices.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/main/java/org/elasticsearch/action/admin/cluster/stats/TransportClusterStatsAction.java">
+<error line="138" column="17" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/main/java/org/elasticsearch/action/admin/cluster/ClusterAction.java">
 </file>
@@ -7843,6 +7882,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/main/java/org/elasticsearch/rest/RestFilterChain.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/main/java/org/elasticsearch/rest/support/RestUtils.java">
+<error line="152" column="13" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/elasticsearch/src/main/java/org/elasticsearch/rest/HasRestHeaders.java">
 </file>

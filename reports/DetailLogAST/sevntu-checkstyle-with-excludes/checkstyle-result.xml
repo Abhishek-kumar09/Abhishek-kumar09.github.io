@@ -173,6 +173,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/sevntu-checkstyle-with-excludes/sevntu-checks/src/test/resources/com/github/sevntu/checkstyle/checks/design/InputChildBlockLengthCheckNestedClass.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/sevntu-checkstyle-with-excludes/sevntu-checks/src/test/resources/com/github/sevntu/checkstyle/checks/design/InputChildBlockLengthCheckDoubleNested.java">
+<error line="54" column="5" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/sevntu-checkstyle-with-excludes/sevntu-checks/src/test/resources/com/github/sevntu/checkstyle/checks/design/InputCauseParameterInExceptionCheck4.java">
 </file>
@@ -219,6 +220,12 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/sevntu-checkstyle-with-excludes/sevntu-checks/src/test/resources/com/github/sevntu/checkstyle/checks/design/InputPublicReferenceToPrivateTypeCheck14.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/sevntu-checkstyle-with-excludes/sevntu-checks/src/test/resources/com/github/sevntu/checkstyle/checks/design/InputNestedSwitchCheck.java">
+<error line="9" column="9" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="11" column="13" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="28" column="13" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="35" column="13" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="50" column="25" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="63" column="25" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/sevntu-checkstyle-with-excludes/sevntu-checks/src/test/resources/com/github/sevntu/checkstyle/checks/design/InputStaticMethodCandidateCheckSkippedMethods.java">
 </file>
@@ -317,6 +324,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/sevntu-checkstyle-with-excludes/sevntu-checks/src/test/resources/com/github/sevntu/checkstyle/checks/coding/InputRedundantReturnCheckMethodInInterface.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/sevntu-checkstyle-with-excludes/sevntu-checks/src/test/resources/com/github/sevntu/checkstyle/checks/coding/InputReturnCountExtendedCheckMethods.java">
+<error line="110" column="9" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/sevntu-checkstyle-with-excludes/sevntu-checks/src/test/resources/com/github/sevntu/checkstyle/checks/coding/InputJsr305AnnotationsCheckWithNestedAnnotation.java">
 </file>
@@ -339,6 +347,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/sevntu-checkstyle-with-excludes/sevntu-checks/src/test/resources/com/github/sevntu/checkstyle/checks/coding/InputForbidCCommentsInMethodsCheck.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/sevntu-checkstyle-with-excludes/sevntu-checks/src/test/resources/com/github/sevntu/checkstyle/checks/coding/InputMultipleVariableDeclarationsExtendedCheck.java">
+<error line="22" column="9" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/sevntu-checkstyle-with-excludes/sevntu-checks/src/test/resources/com/github/sevntu/checkstyle/checks/coding/InputRequireFailForTryCatchInJunitCheck2.java">
 </file>
@@ -539,6 +548,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/sevntu-checkstyle-with-excludes/sevntu-checks/src/test/resources/com/github/sevntu/checkstyle/checks/coding/InputNumericLiteralNeedsUnderscoreCheck.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/sevntu-checkstyle-with-excludes/sevntu-checks/src/test/resources/com/github/sevntu/checkstyle/checks/coding/InputReturnNullInsteadOfBooleanCheck.java">
+<error line="7" column="9" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/sevntu-checkstyle-with-excludes/sevntu-checks/src/test/resources/com/github/sevntu/checkstyle/checks/coding/InputOverridableMethodInConstructorCheck9.java">
 </file>

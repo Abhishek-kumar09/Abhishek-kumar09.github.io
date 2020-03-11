@@ -2197,6 +2197,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spring-integration/spring-integration-file/src/main/java/org/springframework/integration/file/remote/gateway/package-info.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spring-integration/spring-integration-file/src/main/java/org/springframework/integration/file/remote/gateway/AbstractRemoteFileOutboundGateway.java">
+<error line="560" column="25" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spring-integration/spring-integration-file/src/main/java/org/springframework/integration/file/remote/FileInfo.java">
 </file>
@@ -2883,6 +2884,8 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spring-integration/spring-integration-core/src/test/java/org/springframework/integration/support/management/ExponentialMovingAverageRateTests.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spring-integration/spring-integration-core/src/test/java/org/springframework/integration/support/management/ExponentialMovingAverageTests.java">
+<error line="87" column="25" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
+<error line="109" column="25" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spring-integration/spring-integration-core/src/test/java/org/springframework/integration/support/management/IntegrationManagementConfigurerTests.java">
 </file>
@@ -3089,6 +3092,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spring-integration/spring-integration-core/src/test/java/org/springframework/integration/handler/LoggingHandlerTests.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spring-integration/spring-integration-core/src/test/java/org/springframework/integration/handler/AsyncHandlerTests.java">
+<error line="87" column="49" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/spring-integration/spring-integration-core/src/test/java/org/springframework/integration/handler/MethodInvokingMessageProcessorAnnotationTests.java">
 </file>

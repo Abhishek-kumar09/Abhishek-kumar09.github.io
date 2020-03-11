@@ -485,6 +485,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/RxJava/src/main/java/rx/internal/operators/OperatorObserveOn.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/RxJava/src/main/java/rx/internal/operators/OperatorDematerialize.java">
+<error line="53" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/RxJava/src/main/java/rx/internal/operators/OperatorToMap.java">
 </file>

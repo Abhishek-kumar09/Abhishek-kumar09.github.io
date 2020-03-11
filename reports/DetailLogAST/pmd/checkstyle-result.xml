@@ -3033,6 +3033,7 @@
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/pmd/pmd-java/src/test/resources/net/sourceforge/pmd/lang/java/ast/LambdaBug1470.java">
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/pmd/pmd-java/src/test/resources/net/sourceforge/pmd/lang/java/ast/SwitchStatements.java">
+<error line="13" column="9" severity="warning" message="switch without &quot;default&quot; clause." source="com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck"/>
 </file>
 <file name="/home/abhishek99/Documents/new1/Abhishek-kumar09.github.io/contribution/checkstyle-tester/repositories/pmd/pmd-java/src/test/resources/net/sourceforge/pmd/lang/java/ast/ParserCornerCases17.java">
 </file>
