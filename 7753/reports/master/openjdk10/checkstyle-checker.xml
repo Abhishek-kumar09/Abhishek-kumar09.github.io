@@ -23,7 +23,7 @@
          <module name="NoLineWrap"/>
 
          <!-- Example of sevntu.checkstyle Check usage -->
-         <module name="NoLineWrap"/>
+         <!-- <module name="NoLineWrap"/> -->
 
          <!-- usuppress javadoc parsing errors, as we test Check not a parser -->
          <module name="SuppressionXpathSingleFilter">
